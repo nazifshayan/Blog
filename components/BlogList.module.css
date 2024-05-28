@@ -1,0 +1,18 @@
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.listItem {
+    margin-bottom: 2rem;
+}
+
+.listItem a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.listItem h2 {
+    margin: 0;
+    font-size: 1.5rem;
+}
